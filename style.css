@@ -7,7 +7,7 @@ body {
   align-items: center;
   height: 100vh;
   background-color: #ffd6ea;
-  background-image: url('background.jpg');
+  background-image: url('background.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -125,7 +125,7 @@ li {
   position: absolute;
   width: 24px;
   height: 24px;
-  background: url('https://i.imgur.com/kPFe3dc.png') no-repeat center/contain;
+  background-image: url('rabbit.png') ;
   animation: float 5s linear infinite;
   opacity: 0.8;
 }
