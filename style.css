@@ -123,11 +123,11 @@ li {
 
 .heart {
   position: absolute;
-  width: 20px;
-  height: 20px;
-  background: url('https://i.imgur.com/hkKzBvH.png') no-repeat center/contain;
+  width: 24px;
+  height: 24px;
+  background: url('https://i.imgur.com/Jx5zT3v.png') no-repeat center/contain;
   animation: float 5s linear infinite;
-  opacity: 0.7;
+  opacity: 0.8;
 }
 
 @keyframes float {
